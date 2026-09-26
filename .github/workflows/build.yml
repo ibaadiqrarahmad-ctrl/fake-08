@@ -303,3 +303,4 @@ jobs:
         with:
           name: macOS-ARM64-libretro
           path: platform/libretro/fake08_libretro.dylib
+
